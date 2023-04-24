@@ -1,5 +1,6 @@
 ### Hi there 👋
 i am Carlo, i studied computer science. Now i am into the Microverse course to become a Software Developper. 
+
 🔭 I’m currently working in the Blockchain space, and have more than 5 years experiences.
 👯 I’m looking to collaborate on Open source Blockchain project
 📫 How to reach me: 
